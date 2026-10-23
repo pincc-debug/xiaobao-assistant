@@ -12,6 +12,16 @@
 
 桌面助教提供轻量入口，工作台集中处理课堂事务，教室持续保存课程与资料。
 
+## 界面预览
+
+截图来自应用预览模式，内容为模拟数据。
+
+| 课前备课 | 课堂工作台 |
+| --- | --- |
+| ![课前备课](docs/screenshots/preparation.png) | ![课堂工作台](docs/screenshots/classroom-workbench.png) |
+| **课堂数据** | **助教形象与风格** |
+| ![课堂数据](docs/screenshots/classroom-data.png) | ![助教形象与风格](docs/screenshots/assistant-style.png) |
+
 ## 保利威接入
 
 - **官方互动 SDK**：使用 `@polyv/interactions-launch-sdk@0.7.0`，支持签到、公告、答题卡、问卷、抢答、计时器、卡片推送及抽奖等互动。
