@@ -4,7 +4,7 @@
 - https://www.polyv.cn/
 - https://www.polyv.cn/download/
 
-2026-10-15 读取官网及下载页的实际资源：
+读取官网及下载页的实际资源：
 - 字标：https://s1-test.videocc.net/official-pc/img/polyv-logo-white-0515@2x.22a9219.png
 - 开播客户端图标：https://s1.videocc.net/official-pc/img/icon-live-pc-client.58f79cd.png
 

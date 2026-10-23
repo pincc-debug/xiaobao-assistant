@@ -1,6 +1,5 @@
 # 参赛提交说明
 
-- 源码快照：2026-10-23。
 - 应用：小保助教 0.1.19（build 48），macOS 14+，Apple Silicon。
 - 安装包：[GitHub Release](https://github.com/pincc-debug/xiaobao-assistant/releases/tag/v0.1.19)。仅提供最新 DMG。
 - 签名：本机 ad-hoc 签名，未做 Developer ID 公证。

@@ -10,7 +10,7 @@
 
 置顶卡片与“讲师笔记 → 课堂互动”共享CourseSession.interactions同一份记录，课后在课程回顾的课程笔记中查看。记录包括内容、平台ID、起止时间、统计快照、名单和分析；连续统计最多保留最近200个变化快照。公告不生成分析。
 
-## 实时与结束后统计（2026-10-20 修正）
+## 实时与结束后统计（修正）
 
 - 签到进行中使用 `CheckIn.getCheckInNum`（Socket `GET_SIGN_IN_STATUS_FOR_LARGE`）读取人数，前后校验当前签到 ID。结束后才读取 `getCheckInDetail` 的最终统计和分页名单，避免把尚未同步的明细人数显示为实时人数。
 - 答题进行中以 `AnswerCard.getOngoingStatus.statistics` 的总人数和选项分布为准。`getQuestionStatistics` 的正确人数只在总人数和选项分布匹配时附加，否则保持未知，不显示虚假的 0%。
