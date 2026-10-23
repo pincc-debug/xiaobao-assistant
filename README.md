@@ -14,13 +14,21 @@
 
 ## 界面预览
 
-截图来自应用预览模式，内容为模拟数据。
+截图来自应用预览模式，内容为模拟数据。点击图片可查看大图。
 
 | 课前备课 | 课堂工作台 |
 | --- | --- |
 | ![课前备课](docs/screenshots/preparation.png) | ![课堂工作台](docs/screenshots/classroom-workbench.png) |
-| **课堂数据** | **助教形象与风格** |
-| ![课堂数据](docs/screenshots/classroom-data.png) | ![助教形象与风格](docs/screenshots/assistant-style.png) |
+| **课堂数据** | **桌面助教** |
+| ![课堂数据](docs/screenshots/classroom-data.png) | ![桌面助教](docs/screenshots/desktop-assistant.png) |
+| **形象与风格** | **助教能力** |
+| ![形象与风格](docs/screenshots/assistant-style.png) | ![助教能力](docs/screenshots/settings-capabilities.png) |
+| **知识库** | **资料编辑** |
+| ![知识库](docs/screenshots/settings-knowledge.png) | ![资料编辑](docs/screenshots/settings-knowledge-detail.png) |
+| **大模型服务** | **消息判断** |
+| ![大模型服务](docs/screenshots/settings-models.png) | ![消息判断](docs/screenshots/settings-message-analysis.png) |
+| **语音转写** | **保利威连接** |
+| ![语音转写](docs/screenshots/settings-transcription.png) | ![保利威连接](docs/screenshots/settings-polyv.png) |
 
 ## 保利威接入
 
