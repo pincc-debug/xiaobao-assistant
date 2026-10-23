@@ -1,0 +1,68 @@
+# Swift / Xcode / SPM
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Build outputs
+build/
+dist/
+*.app
+*.dmg
+*.ipa
+*.pkg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Env / secrets / credentials (by filename)
+.env
+.env.*
+*.p8
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*secret*
+*credential*
+*credentials*
+config-local*
+*-local.json
+*-local.yml
+*-local.yaml
+*.keystore
+
+# Node / Python caches
+node_modules/
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+
+# Editor / IDE
+.idea/
+*.swp
+*~
+
+# Test run artifacts
+test-fixtures/**/runs/
+
+# Large / local caches
+.cache/
+*.log.gz
+
+# Local submission exclusions
+.sc/
+.tech.txt
+evidence/
+test-fixtures/
+*.log
+*.dmg.sha256
